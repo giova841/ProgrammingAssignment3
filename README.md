@@ -1,10 +1,11 @@
 ---
 title: 'Programming Assignment 3'
 output:
+  html_document: 
+    number_sections: yes
+    toc: yes
   pdf_document: 
     toc: yes
-    number_sections: yes
-  html_document: 
     number_sections: yes
 ---
 # Introduction
